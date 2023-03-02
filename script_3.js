@@ -5,5 +5,6 @@
     console.log(" ".repeat(nbTotal-etage)+"#".repeat(etage))
     etage++
   }
+  prompt("Fin du script_3")
 }
 

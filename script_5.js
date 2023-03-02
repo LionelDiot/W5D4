@@ -57,5 +57,6 @@
   })
 
   console.log(filteredBooks.sort((a,b) => a.title.localeCompare(b.title)))
+  prompt("Fin du script_5")
 }
 

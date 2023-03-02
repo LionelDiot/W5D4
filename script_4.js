@@ -47,6 +47,6 @@
   sortedTab.sort((a, b) => a.last.localeCompare(b.last));
   console.log(sortedTab) ;
 
-
+  prompt("Fin du script_4")
 }
 
